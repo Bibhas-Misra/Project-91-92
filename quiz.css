@@ -1,0 +1,31 @@
+#login {
+    background: lightgreen;
+}
+
+.login_div {
+    background: white;
+    float: none;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+#p1_input, #p2_input {
+    display: inline-block;
+}
+
+#quiz {
+    background: red;
+}
+
+#output {
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+#a {
+    width: 50px;
+}
